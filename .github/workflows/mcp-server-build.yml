@@ -1,4 +1,4 @@
-name: CI — build mcp-server
+name: build mcp-server
 
 on:
   workflow_dispatch:
